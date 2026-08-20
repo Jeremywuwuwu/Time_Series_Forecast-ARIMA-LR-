@@ -5,8 +5,6 @@ A time series project on 45 Walmart stores that fits an ARIMA model to forecast 
 
 The forecasting model performs well. The holiday analysis produced a statistically significant but practically negligible result, and investigating why turned out to be the most useful part of the project.
 
-Completed for ALY 6015 at Northeastern University.
-
 ## Dataset
 Walmart sales records covering **6,435 store-weeks**: 45 individual stores observed across 143 weekly periods from February 5, 2010 through October 26, 2012.
 
